@@ -49,7 +49,7 @@ const ContactSection = () => {
         </div>
         <Typography variant="subtitle" className="max-w-xl text-center">
           What&apos;s next? Feel free to reach out to me if you are looking for a
-          developer, have a query, or simply want to connect.
+          Cloud or DevOps engineer, have a query, or simply want to connect.
         </Typography>
       </div>
 
