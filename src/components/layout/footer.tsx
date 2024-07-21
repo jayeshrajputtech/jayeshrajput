@@ -19,8 +19,7 @@ const Footer = () => {
           >
             
           </Link> */}
-          Designed
-          &nbsp;and&nbsp;
+          Designed&nbsp;and&nbsp;
           {/* <Link
             noCustomization
             externalLink
@@ -28,8 +27,7 @@ const Footer = () => {
             href={EXTERNAL_LINKS.GITHUB_REPO}
           >
           </Link> */}
-          coded
-          &nbsp;with ❤️️ by Jayesh Rajput
+          coded&nbsp;with ❤️️ by Jayesh Rajput
         </Typography>
       </div>
     </footer>
