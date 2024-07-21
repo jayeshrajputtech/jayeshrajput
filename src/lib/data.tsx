@@ -104,7 +104,7 @@ export const SOCIAL_LINKS = [
   },
   {
     icon: Youtube,
-    url: 'https://youtube.com/in/TechWithJayeshR',
+    url: 'https://youtube.com/@TechWithJayeshR',
   },
   {
     icon: Github,
